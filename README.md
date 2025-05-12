@@ -26,9 +26,9 @@ This is a simple Todo app built using Flutter, designed to help users manage the
 ### Main Page
 <img width="250" alt="Screenshot 2025-05-12 at 2 55 28 PM" src="https://github.com/user-attachments/assets/af66870c-8783-44c6-8768-b527b30fc577" />
 
-### For Add new Task
+### To add a new Task
 <img width="270" alt="Screenshot 2025-05-12 at 2 31 17 PM" src="https://github.com/user-attachments/assets/010dd615-b3b4-4ea5-8250-efbdc11ef3af" />
 
-### Delete Tasks
+### To Delete Tasks
 <img width="246" alt="Screenshot 2025-05-12 at 2 35 18 PM" src="https://github.com/user-attachments/assets/8e62f13e-838a-43aa-b4d5-dcd0a59a6f19" />
 
