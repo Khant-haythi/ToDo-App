@@ -1,16 +1,23 @@
 # todoapp
 
-A new Flutter project.
+## Project Overview
+This is a simple Todo app built using Flutter, designed to help users manage their tasks efficiently. The app allows users to add new tasks, delete existing tasks, and mark tasks as completed by checking a checkbox. When a task is marked as completed, it is displayed with a strikethrough effect.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+1. Add New Task:
+- Users can add new tasks by clicking the "+" button at the bottom-right corner of the screen.
+* A dialog box appears where users can enter the task description.
++ After entering the task, users can save it by clicking the "Save" button. The task will then be added to the list.
+Delete Tasks:
+Users can delete tasks by swiping left on a task card.
+A red delete button appears when swiping, allowing users to confirm the deletion.
+Mark Tasks as Completed:
+Each task has a checkbox on the left side.
+When a user checks the checkbox, the task is marked as completed, and the text is displayed with a strikethrough effect.
+User Interface:
+The app uses a clean and intuitive design with a yellow theme.
+Task cards are displayed in a vertical list, making it easy to view and manage tasks.
+The app title "TO DO" is prominently displayed at the top of the screen.
+Technical Details
+Programming Language: Dart
+Framework: Flutter
