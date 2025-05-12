@@ -1,4 +1,4 @@
-# todoapp
+# ToDoapp
 
 ## Project Overview
 This is a simple Todo app built using Flutter, designed to help users manage their tasks efficiently. The app allows users to add new tasks, delete existing tasks, and mark tasks as completed by checking a checkbox. When a task is marked as completed, it is displayed with a strikethrough effect.
@@ -8,16 +8,16 @@ This is a simple Todo app built using Flutter, designed to help users manage the
 - Users can add new tasks by clicking the "+" button at the bottom-right corner of the screen.
 * A dialog box appears where users can enter the task description.
 + After entering the task, users can save it by clicking the "Save" button. The task will then be added to the list.
-Delete Tasks:
-Users can delete tasks by swiping left on a task card.
-A red delete button appears when swiping, allowing users to confirm the deletion.
-Mark Tasks as Completed:
-Each task has a checkbox on the left side.
-When a user checks the checkbox, the task is marked as completed, and the text is displayed with a strikethrough effect.
-User Interface:
-The app uses a clean and intuitive design with a yellow theme.
-Task cards are displayed in a vertical list, making it easy to view and manage tasks.
-The app title "TO DO" is prominently displayed at the top of the screen.
-Technical Details
-Programming Language: Dart
-Framework: Flutter
+2. Delete Tasks:
+- Users can delete tasks by swiping left on a task card.
++ A red delete button appears when swiping, allowing users to confirm the deletion.
+3. Mark Tasks as Completed:
+- Each task has a checkbox on the left side.
++ When a user checks the checkbox, the task is marked as completed, and the text is displayed with a strikethrough effect.
+4. User Interface:
+- The app uses a clean and intuitive design with a yellow theme.
++ Task cards are displayed in a vertical list, making it easy to view and manage tasks.
+* The app title "TO DO" is prominently displayed at the top of the screen.
+5. Technical Details
+- Programming Language: Dart
++ Framework: Flutter
