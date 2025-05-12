@@ -1,4 +1,4 @@
-# ToDoapp
+# ToDoapp :EMOJICODE:orange_book: :spiral_notepad:
 
 ## Project Overview
 This is a simple Todo app built using Flutter, designed to help users manage their tasks efficiently. The app allows users to add new tasks, delete existing tasks, and mark tasks as completed by checking a checkbox. When a task is marked as completed, it is displayed with a strikethrough effect.
